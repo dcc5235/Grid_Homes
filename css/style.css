@@ -168,7 +168,7 @@ body {
     grid-column: 2 / 3;
     fill: #c69963;
     height: 2.5rem;
-    width: 2.5;
+    width: 2.5rem;
     z-index: 2;
     justify-self: end;
     margin: 1rem; }

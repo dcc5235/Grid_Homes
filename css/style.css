@@ -219,9 +219,9 @@ body {
   .gallery__item--3 {
     grid-row: 1 / span 2;
     grid-column: 6 / 7; }
-  .gallery__item--1 {
+  .gallery__item--4 {
     grid-row: 1 / span 2;
-    grid-column: 1 / span 2; }
+    grid-column: 7 / -1; }
   .gallery__item--1 {
     grid-row: 1 / span 2;
     grid-column: 1 / span 2; }

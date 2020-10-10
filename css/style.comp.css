@@ -204,7 +204,8 @@ body {
   .realtors__sold {
     text-transform: uppercase;
     color: #aaa;
-    margin-top: -3px; }
+    margin-top: -3px;
+    font-size: 1.9rem; }
 
 .features {
   grid-column: center-start / center-end;
